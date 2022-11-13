@@ -16,7 +16,7 @@ Contact me [here](mailto:thedev132@gmail.com)!
 ![Skills](https://skillicons.dev/icons?i=c,docker,bots,express,firebase,flask)
 ![Skills](https://skillicons.dev/icons?i=figma,flutter,heroku,java,jquery,linux)
 ![Skills](https://skillicons.dev/icons?i=nginx,raspberrypi,sass,stackoverflow,vscode,githubactions)
-![Skills](https://skillicons.dev/icons?i=bash)
+![Skills](https://skillicons.dev/icons?i=bash,bootstrap,discord)
 
 ---
 
