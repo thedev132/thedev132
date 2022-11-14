@@ -11,7 +11,7 @@ Contact me [here](mailto:thedev132@gmail.com)!
 
 ---
 
-🧰 Toolbox
+## 🧰 Toolbox
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,markdown)
 ![Skills](https://skillicons.dev/icons?i=typescript,git,github,swift,django,react)
