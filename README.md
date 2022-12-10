@@ -24,6 +24,6 @@ Contact me [here](mailto:thedev132@gmail.com)!
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedev132&hide=shell&theme=radical)](https://github.com/thedev13)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedev132&hide=shell&theme=radical)](https://github.com/thedev132)
 
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedev132&theme=radical)](https://github.com/thedev132)
