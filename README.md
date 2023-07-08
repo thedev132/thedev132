@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/thedev132/count.svg" />
 </p>
 
 # Hey There! <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40" /> 
