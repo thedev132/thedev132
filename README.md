@@ -1,6 +1,6 @@
 <!-- markdownlint-disable no-inline-html first-line-heading -->
 
-![banner](./github-header-image.png)
+![banner](./github-header-image(1).png)
 
 <p align="center"> 
   Visitor count<br>
