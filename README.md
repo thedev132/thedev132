@@ -9,7 +9,7 @@
 
 # Hey There! <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40" /> 
 
-Hey there! 👋 I'm Mohamad Mortada, an incoming freshman with a passion for soccer and programming. Welcome to my GitHub profile! Here, you'll find a diverse collection of projects ranging from web development to configuring Linux servers. I'm constantly exploring new technologies and pushing my boundaries to create innovative solutions.
+Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and programming. Welcome to my GitHub profile! Here, you'll find a diverse collection of projects ranging from web development to configuring Linux servers. I'm constantly exploring new technologies and pushing my boundaries to create innovative solutions.
 
 ## 📝 Getting to Know Me
 
