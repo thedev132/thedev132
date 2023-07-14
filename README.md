@@ -17,7 +17,7 @@ Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and pr
 - 🐧 I use ZSH as my shell on iTerm + powerlevel10k 
 - 🌱 Automation and AI are areas I'm actively exploring. 
 <!-- - 📰 Read my [blog](https://www.yashsingh.us/blog/) -->
-<!-- - Website: https://mohamad.mortada.dev
+<!-- - Website: https://mohamad.mortada.dev -->
 <details>
 
 <summary>My GitHub Stats</summary>
