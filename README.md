@@ -1,3 +1,5 @@
+<!-- markdownlint-disable no-inline-html first-line-heading -->
+
 ![banner](./github-header-image(1).png)
 
 <p align="center"> 
