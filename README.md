@@ -16,7 +16,7 @@ Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and pr
 - 💻 I have a keen interest in web development. Next.JS is my go-to for crafting engaging user experiences.
 - 🐧 I use ZSH as my shell on iTerm + powerlevel10k 
 - 🌱 Automation and AI are areas I'm actively exploring. 
-<!-- - 📰 Read my [blog](https://www.yashsingh.us/blog/) -->
+<!-- - 📰 Read my [blog](LINK) -->
 <!-- - Website: https://mohamad.mortada.dev -->
 <details>
 
@@ -32,19 +32,19 @@ Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and pr
   
 <div align="center">
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/thedev132/github-readme-stats" title="Go to Source">
       <img
         align="center"
         width="50%"
-        src="https://github-readme-stats.vercel.app/api?username=thedev132&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
+        src="https://github-readme-stats-dusky-nu.vercel.app/api?username=thedev132&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
       />
     </a>
   </div>
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/thedev132/github-readme-stats">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedev132&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&hide=roff"
+        src="https://github-readme-stats-dusky-nu.vercel.app/api/top-langs/?username=thedev132&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&hide=roff"
       />
     </a>
   </div>
