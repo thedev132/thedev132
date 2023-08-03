@@ -56,6 +56,7 @@ Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and pr
     </a>
   </div>
 </div>
+</details>
 
 
 ## GitHub README Chess Tournament
@@ -121,10 +122,6 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 | :---------: | :----- |
 
 <!-- END TOP MOVES -->
-</details>
-
-
-
 </details>
 
 <br />
