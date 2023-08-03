@@ -59,7 +59,7 @@ Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and pr
 </details>
 
 
-## GitHub README Chess Tournament
+## ♟️ GitHub ReadMe Chess Tournament
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
 It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
