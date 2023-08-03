@@ -102,9 +102,6 @@ Having fun? Ask a friend to do the next move!
 
 When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
 
-Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/marcizhu/readme-chess/issues) and I will try to fix it as soon as possible :D
-
-
 <details>
   <summary>Last 5 moves in this game</summary>
 <!-- BEGIN LAST MOVES -->
