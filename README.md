@@ -16,8 +16,8 @@ Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and pr
 - 💻 I have a keen interest in web development. Next.JS is my go-to for crafting engaging user experiences.
 - 🐧 I use ZSH as my shell on iTerm + powerlevel10k 
 - 🌱 Automation and AI are areas I'm actively exploring. 
-<!-- - 📰 Read my [blog](LINK) -->
 - 📰 Visit my [website](https://mohamad.mortada.dev) -->
+<!-- - 📰 Read my [blog](LINK) -->
 
 <details>
 
