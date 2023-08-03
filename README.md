@@ -19,6 +19,44 @@ Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and pr
 <!-- - 📰 Read my [blog](LINK) -->
 <!-- - Website: https://mohamad.mortada.dev -->
 
+<details>
+
+<summary>My GitHub Stats</summary>
+
+<div align="center">
+  <strong>NOTE: Don't solely depend on these statistics to determine proficiency in skills</strong>
+  <details>
+    <summary>Why?</summary>
+    Some PRs/commits may have taken a month, while others may have taken half a minute. Some languages may be more verbose or contain embedded languages. Sometimes a short line of code might have taken a whole day to write. All these factors reduce the value in these statistics to some effectiveness. A lot of my work might even be in private repositories, and some of the code simply be data or conifguration.
+  </details>
+</div>
+  
+<div align="center">
+  <div align="center">
+    <a href="https://github.com/thedev132/github-readme-stats" title="Go to Source">
+      <img
+        align="center"
+        width="50%"
+        src="https://github-readme-stats-dusky-nu.vercel.app/api?username=thedev132&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
+      />
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://github.com/thedev132/github-readme-stats">
+      <img
+        align="center"
+        src="https://github-readme-stats-dusky-nu.vercel.app/api/top-langs/?username=thedev132&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&hide=roff"
+      />
+    </a>
+  </div>
+  <br />
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img src="https://github-profile-trophy.vercel.app/?username=thedev132&theme=nord&column=8" alt="Trophies" />
+    </a>
+  </div>
+</div>
+
 
 ## GitHub README Chess Tournament
 
@@ -86,43 +124,6 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 </details>
 
 
-<details>
-
-<summary>My GitHub Stats</summary>
-
-<div align="center">
-  <strong>NOTE: Don't solely depend on these statistics to determine proficiency in skills</strong>
-  <details>
-    <summary>Why?</summary>
-    Some PRs/commits may have taken a month, while others may have taken half a minute. Some languages may be more verbose or contain embedded languages. Sometimes a short line of code might have taken a whole day to write. All these factors reduce the value in these statistics to some effectiveness. A lot of my work might even be in private repositories, and some of the code simply be data or conifguration.
-  </details>
-</div>
-  
-<div align="center">
-  <div align="center">
-    <a href="https://github.com/thedev132/github-readme-stats" title="Go to Source">
-      <img
-        align="center"
-        width="50%"
-        src="https://github-readme-stats-dusky-nu.vercel.app/api?username=thedev132&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
-      />
-    </a>
-  </div>
-  <div align="center">
-    <a href="https://github.com/thedev132/github-readme-stats">
-      <img
-        align="center"
-        src="https://github-readme-stats-dusky-nu.vercel.app/api/top-langs/?username=thedev132&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&hide=roff"
-      />
-    </a>
-  </div>
-  <br />
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=thedev132&theme=nord&column=8" alt="Trophies" />
-    </a>
-  </div>
-</div>
 
 </details>
 
