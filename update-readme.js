@@ -1,5 +1,5 @@
-import fetch from 'node-fetch';
-import fs from 'fs';
+const fetch = require('node-fetch');
+const fs = require('fs');
 
 const repoOwner = 'thedev132';
 const repoName = 'thedev132';
@@ -10,15 +10,20 @@ const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/stargazers
     const response = await fetch(apiUrl);
     const starGazers = await response.json();
 
-    const avatarUrls = starGazers.map(gazer => `<img src="${gazer.avatar_url}" alt="Description" width="32" height="32">`);
-    
+    const avatarTags = starGazers.map(gazer => `<img src="${gazer.avatar_url}" alt="${gazer.login}" width="50" height="50" style="display:inline-block; margin: 0 5px;" />`);
+    const avatarLine = avatarTags.join('');
+
     const readmePath = './README.md';
-    const readmeContent = fs.readFileSync(readmePath, 'utf-8');
+    let readmeContent = fs.readFileSync(readmePath, 'utf-8');
     
     const insertionPoint = readmeContent.indexOf('<!-- STAR_GAZERS_AVATARS -->');
     
     if (insertionPoint !== -1) {
-      const updatedReadme = `${readmeContent.slice(0, insertionPoint)}\n${avatarUrls.join('\n')}\n${readmeContent.slice(insertionPoint)}`;
+      // Remove everything after the insertion point
+      readmeContent = readmeContent.slice(0, insertionPoint);
+      
+      // Add the star gazers' avatars and horizontal line
+      const updatedReadme = `${readmeContent}\n${avatarLine}\n\n---`;
       
       fs.writeFileSync(readmePath, updatedReadme);
     } else {
