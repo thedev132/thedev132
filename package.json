@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "GitHub Action for updating README with star gazers' avatars",
   "main": "update-readme.js",
+  "type": "module",
   "scripts": {
     "start": "node update-readme.js"
   },
