@@ -1,0 +1,12 @@
+{
+  "name": "github-action-readme-updater",
+  "version": "1.0.0",
+  "description": "GitHub Action for updating README with star gazers' avatars",
+  "main": "update-readme.js",
+  "scripts": {
+    "start": "node update-readme.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
