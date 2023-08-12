@@ -10,8 +10,8 @@ const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/stargazers
     const response = await fetch(apiUrl);
     const starGazers = await response.json();
 
-    const avatarTags = starGazers.map(gazer => `<img src="${gazer.avatar_url}" alt="${gazer.login}" width="50" height="50" style="display:inline-block; margin: 0 10px;" />`);
-    const avatarLine = avatarTags.join('');
+    const avatarTags = starGazers.map(gazer => `<img src="${gazer.avatar_url}" alt="${gazer.login}" width="50" height="50" style="display:inline-block; margin: 0 10px;" />`).join(' ');
+    const avatarLine = avatarTags;
 
     const readmePath = './README.md';
     let readmeContent = fs.readFileSync(readmePath, 'utf-8');
