@@ -13,10 +13,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Remove node_modules and package-lock.json
+      - name: Remove Untracked Files
         run: |
-          rm -rf node_modules
-          rm package-lock.json
+          git clean -df
+          git checkout .
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
