@@ -19,7 +19,7 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm install node-fetch fs
+        run: npm install
 
       - name: Update README
         run: node update-readme.js
