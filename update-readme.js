@@ -1,6 +1,5 @@
 import fetch from 'node-fetch';
 import fs from 'fs';
-
 const repoOwner = 'thedev132';
 const repoName = 'thedev132';
 const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/stargazers`;
@@ -19,11 +18,11 @@ const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/stargazers
     const insertionPoint = readmeContent.indexOf('<!-- STAR_GAZERS_AVATARS -->');
     
     if (insertionPoint !== -1) {
-      // Remove everything after the insertion point
-      readmeContent = readmeContent.slice(0, insertionPoint);
+      // Construct the content to be inserted
+      const insertionContent = `${avatarLine}\n\n---`;
       
-      // Add the star gazers' avatars and horizontal line
-      const updatedReadme = `${readmeContent}\n${avatarLine}\n\n---`;
+      // Insert the content after the insertion point
+      const updatedReadme = `${readmeContent.slice(0, insertionPoint)}<!-- STAR_GAZERS_AVATARS -->\n\n${insertionContent}\n\n${readmeContent.slice(insertionPoint)}`;
       
       fs.writeFileSync(readmePath, updatedReadme);
     } else {
