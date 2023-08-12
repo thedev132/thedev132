@@ -1,5 +1,5 @@
-import fetch from 'node-fetch';
-import fs from 'fs';
+import * as fetch from 'node:node-fetch';
+import * as fs from 'node:fs';
 
 const repoOwner = 'thedev132';
 const repoName = 'thedev132';
