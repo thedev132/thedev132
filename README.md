@@ -18,9 +18,7 @@ Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and pr
 - 🌱 Automation and AI are areas I'm actively exploring. 
 - 📰 Visit my [website](https://mohamad.mortada.dev)
 
-<details>
-
-<summary>My GitHub Stats</summary>
+## 📊 My Github Stats
   
 <div align="center">
   <div align="center">
@@ -47,7 +45,6 @@ Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and pr
     </a>
   </div>
 </div>
-</details>
 
 
 ## ♟️ GitHub ReadMe Chess Tournament
