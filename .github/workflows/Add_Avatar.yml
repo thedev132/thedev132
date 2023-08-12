@@ -24,14 +24,10 @@ jobs:
       - name: Update README
         run: npm start
 
-      - name: Remove Untracked Files
-        run: |
-          git clean -df
-          git checkout .
-
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -am "Update README with star gazers' avatars"
+          git add .
+          git commit -m "Update README with star gazers' avatars"
           git push
