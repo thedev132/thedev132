@@ -1,9 +1,6 @@
 import fetch from 'node-fetch';
 import fs from 'fs';
 
-const fetch = require('node-fetch');
-const fs = require('fs');
-
 const repoOwner = 'thedev132';
 const repoName = 'thedev132';
 const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/stargazers`;
