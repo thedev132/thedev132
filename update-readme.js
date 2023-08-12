@@ -19,11 +19,11 @@ const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/stargazers
     const insertionPoint = readmeContent.indexOf('<!-- STAR_GAZERS_AVATARS -->');
     
     if (insertionPoint !== -1) {
-      // Find the end of the insertion point
-      const insertionEnd = readmeContent.indexOf('\n', insertionPoint);
+      // Find the start of the line after the insertion point
+      const nextLineStart = readmeContent.indexOf('\n', insertionPoint) + 1;
       
       // Construct the updated README content
-      const updatedReadme = `${readmeContent.slice(0, insertionEnd)}${avatarLine}\n${readmeContent.slice(insertionEnd)}`;
+      const updatedReadme = `${readmeContent.slice(0, nextLineStart)}${avatarLine}`;
       
       fs.writeFileSync(readmePath, updatedReadme);
     } else {
