@@ -180,3 +180,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
   </a>
 
 </p>
+
+Here are some of the awesome people who've starred this repo!:
+
+<!-- STAR_GAZERS_AVATARS -->
