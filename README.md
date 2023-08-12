@@ -188,4 +188,7 @@ Here are some of the awesome people who've starred this repo!:
 
 <img src="https://avatars.githubusercontent.com/u/54006217?v=4" alt="Description" width="32" height="32">
 <img src="https://avatars.githubusercontent.com/u/93487374?v=4" alt="Description" width="32" height="32">
-<!-- STAR_GAZERS_AVATARS -->
+
+<img src="https://avatars.githubusercontent.com/u/93487374?v=4" alt="carhanc" width="50" height="50" style="display:inline-block; margin: 0 5px;" /><img src="https://avatars.githubusercontent.com/u/54006217?v=4" alt="thedev132" width="50" height="50" style="display:inline-block; margin: 0 5px;" />
+
+---
