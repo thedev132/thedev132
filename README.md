@@ -2,10 +2,8 @@
 
 ![banner](./github-header-image(1).png)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/thedev132/count.svg" />
-</p>
+[![Visits Badge](https://badges.pufler.dev/visits/thedev132/bzadge-it)](https://badges.pufler.dev)
+
 
 # Hey There! <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40" /> 
 
