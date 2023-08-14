@@ -182,7 +182,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 </p>
 
-Here are some of the awesome people who've starred this repo!:
+<h2>Here are some of the awesome people who've starred this repo!:</h2>
 
 <!-- STAR_GAZERS_AVATARS -->
 
