@@ -23,7 +23,6 @@ Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and pr
 - ⭐️ Star This Repo to place your avatar on the bottom of this page!
 
 ## 📊 My Github Stats
-  
 <div align="center">
   <div align="center">
     <a href="https://github.com/thedev132/github-readme-stats" title="Go to Source">
@@ -34,6 +33,15 @@ Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and pr
       />
     </a>
   </div>
+    </div>
+    <div align="center">
+    <a href="https://github.com/thedev132/github-readme-stats">
+      <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com?user=thedev132&theme=react&hide_border=true"
+      />
+    </a>
+  </div>
   <div align="center">
     <a href="https://github.com/thedev132/github-readme-stats">
       <img
@@ -41,7 +49,7 @@ Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and pr
         src="https://github-readme-stats-dusky-nu.vercel.app/api/top-langs/?username=thedev132&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&hide=roff"
       />
     </a>
-  </div>
+  
   <br />
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
