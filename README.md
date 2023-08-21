@@ -22,43 +22,6 @@ Hey there! 👋 I'm Mohamad Mortada, a freshman with a passion for soccer and pr
 - 📰 Visit my [website](https://mohamad.mortada.dev)
 - ⭐️ Star This Repo to place your avatar on the bottom of this page!
 
-## 📊 My Github Stats
-<div align="center">
-  <div align="center">
-    <a href="https://github.com/thedev132/github-readme-stats" title="Go to Source">
-      <img
-        align="center"
-        width="50%"
-        src="https://github-readme-stats-dusky-nu.vercel.app/api?username=thedev132&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
-      />
-    </a>
-  </div>
-    </div>
-    <div align="center">
-    <a href="https://github.com/thedev132/github-readme-stats">
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com?user=thedev132&theme=react&hide_border=true"
-      />
-    </a>
-  </div>
-  <div align="center">
-    <a href="https://github.com/thedev132/github-readme-stats">
-      <img
-        align="center"
-        src="https://github-readme-stats-dusky-nu.vercel.app/api/top-langs/?username=thedev132&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&hide=roff"
-      />
-    </a>
-  
-  <br />
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=thedev132&theme=nord&column=8" alt="Trophies" />
-    </a>
-  </div>
-</div>
-
-
 ## ♟️ GitHub ReadMe Chess Tournament
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
@@ -130,8 +93,43 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 <!-- END TOP MOVES -->
 </details>
 
-<br />
+## 📊 My Github Stats
+<div align="center">
+  <div align="center">
+    <a href="https://github.com/thedev132/github-readme-stats" title="Go to Source">
+      <img
+        align="center"
+        width="50%"
+        src="https://github-readme-stats-dusky-nu.vercel.app/api?username=thedev132&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
+      />
+    </a>
+  </div>
+    </div>
+    <div align="center">
+    <a href="https://github.com/thedev132/github-readme-stats">
+      <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com?user=thedev132&theme=react&hide_border=true"
+      />
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://github.com/thedev132/github-readme-stats">
+      <img
+        align="center"
+        src="https://github-readme-stats-dusky-nu.vercel.app/api/top-langs/?username=thedev132&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&hide=roff"
+      />
+    </a>
+  
+  <br />
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img src="https://github-profile-trophy.vercel.app/?username=thedev132&theme=nord&column=8" alt="Trophies" />
+    </a>
+  </div>
+</div>
 
+<br/>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=black&logo=JavaScript&style=for-the-badge&color=f1e05a" />
