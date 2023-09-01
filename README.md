@@ -5,7 +5,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/thedev132/bzadge-it)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/thedev132)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/thedev132)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/thedev132)](https://badges.pufler.dev)
 
 
 
