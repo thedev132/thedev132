@@ -146,6 +146,7 @@ def main(issue, issue_author, repo_owner):
             return False, 'ERROR: Board is invalid!'
 
         issue_labels = ['⚔️ Capture!'] if gameboard.is_capture(move) else []
+        issue_labels += ['Check!'] if gameboard.is_check() else []
         issue_labels += ['White' if gameboard.turn == chess.WHITE else 'Black']
 
         issue.create_comment(settings['comments']['successful_move'].format(author=issue_author, move=action[1]))
