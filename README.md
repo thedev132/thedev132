@@ -3,17 +3,11 @@
 # Hey There! <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40" /> 
 
 
-Hey there! 👋 I'm Mohamad Mortada. Welcome to my GitHub profile! Here, you'll find a diverse collection of projects ranging from web development to configuring Linux servers. I'm constantly exploring new technologies and pushing my boundaries to create innovative solutions.
-
-
+Hey there! 👋 I'm Mohamad Mortada
 
 ## 📝 Getting to Know Me
 
-- 💻 I have a keen interest in web development. NextJS is my go-to for crafting engaging user experiences.
-- 🐧 I use ZSH as my shell on iTerm + powerlevel10k 
-- 🌱 Automation and AI are areas I'm actively exploring. 
-- 📰 Visit my [website](https://mohamad.mortada.dev)
-- ⭐️ Star This Repo to place your avatar on the bottom of this page!
+I am currently an engineer at [Hack Club](https://github.com/hackclub) where I focus on allowing teenagers to jumpstart their own nonprofit through fiscal sponsorship and our suite of financial tools to help them along their journey. 
 
 ## ♟️ GitHub ReadMe Chess Tournament
 
@@ -110,21 +104,6 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
       />
     </a>
   </div>
-  <div align="center">
-    <a href="https://github.com/thedev132/github-readme-stats">
-      <img
-        align="center"
-        src="https://github-readme-stats-dusky-nu.vercel.app/api/top-langs/?username=thedev132&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&hide=roff"
-      />
-    </a>
-  
-  <br />
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=thedev132&theme=nord&column=8" alt="Trophies" />
-    </a>
-  </div>
-</div>
 
 <br/>
 <p align="center">
