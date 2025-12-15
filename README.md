@@ -95,15 +95,6 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
       />
     </a>
   </div>
-    </div>
-    <div align="center">
-    <a href="https://github.com/thedev132/github-readme-stats">
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com?user=thedev132&theme=react&hide_border=true"
-      />
-    </a>
-  </div>
 
 <br/>
 <p align="center">
